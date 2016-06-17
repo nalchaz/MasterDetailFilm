@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="TPIHM.AddView" BaseTypeListCollapsed="true">
+    <Position X="10.5" Y="4.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AddView.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TPIHM.EditView" BaseTypeListCollapsed="true">
+    <Position X="10.75" Y="2.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>EditView.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TPIHM.MainWindow" BaseTypeListCollapsed="true">
+    <Position X="10.5" Y="0.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="TPIHM.Events.CommandChangedEvent" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAgAAAAAAAAAAAIAAACAA=</HashCode>
+      <FileName>Events\CommandChangedEvent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="View.Models.Film" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAACgQAQAAEAAABAAABAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Models\Film.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="View.Models.Personne" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAABCAQAAAAACAAAAAAAAI=</HashCode>
+      <FileName>Models\Personne.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TPIHM.ViewModels.FilmViewModel" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QEAUAAAAAAAAIAECAAAAAAAAAAAABAAAEAAEBBAAAhA=</HashCode>
+      <FileName>ViewModels\FilmViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TPIHM.ViewModels.ListFilmViewModel">
+    <Position X="2.75" Y="1.5" Width="5" />
+    <TypeIdentifier>
+      <HashCode>ARAQIAAQAgAA4AACAQIAAAAAAAAABAAMQCAAAFAwIBI=</HashCode>
+      <FileName>ViewModels\ListFilmViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

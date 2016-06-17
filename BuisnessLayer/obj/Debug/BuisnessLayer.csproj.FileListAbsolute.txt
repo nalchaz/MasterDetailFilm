@@ -1,0 +1,21 @@
+C:\Users\nahel\Desktop\Cours\C#\TPIHM\TPIHM\TPIHM\BuisnessLayer\bin\Debug\BuisnessLayer.dll
+C:\Users\nahel\Desktop\Cours\C#\TPIHM\TPIHM\TPIHM\BuisnessLayer\bin\Debug\BuisnessLayer.pdb
+C:\Users\nahel\Desktop\Cours\C#\TPIHM\TPIHM\TPIHM\BuisnessLayer\obj\Debug\BuisnessLayer.csprojResolveAssemblyReference.cache
+C:\Users\nahel\Desktop\Cours\C#\TPIHM\TPIHM\TPIHM\BuisnessLayer\obj\Debug\BuisnessLayer.dll
+C:\Users\nahel\Desktop\Cours\C#\TPIHM\TPIHM\TPIHM\BuisnessLayer\obj\Debug\BuisnessLayer.pdb
+C:\Users\nahel\Desktop\Cours\C#\TPIHM\TPIHM\TPIHM\BuisnessLayer\bin\Debug\Library.dll
+C:\Users\nahel\Desktop\Cours\C#\TPIHM\TPIHM\TPIHM\BuisnessLayer\bin\Debug\Library.pdb
+C:\Users\Merriae\Documents\Visual Studio 2015\Projects\TPIHM\BuisnessLayer\bin\Debug\BuisnessLayer.dll
+C:\Users\Merriae\Documents\Visual Studio 2015\Projects\TPIHM\BuisnessLayer\bin\Debug\BuisnessLayer.pdb
+C:\Users\Merriae\Documents\Visual Studio 2015\Projects\TPIHM\BuisnessLayer\bin\Debug\Library.dll
+C:\Users\Merriae\Documents\Visual Studio 2015\Projects\TPIHM\BuisnessLayer\bin\Debug\Library.pdb
+C:\Users\Merriae\Documents\Visual Studio 2015\Projects\TPIHM\BuisnessLayer\obj\Debug\BuisnessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Merriae\Documents\Visual Studio 2015\Projects\TPIHM\BuisnessLayer\obj\Debug\BuisnessLayer.dll
+C:\Users\Merriae\Documents\Visual Studio 2015\Projects\TPIHM\BuisnessLayer\obj\Debug\BuisnessLayer.pdb
+C:\Users\nahel\Desktop\Cours\C#\TPIHM\TPIHM (1)\TPIHM\BuisnessLayer\bin\Debug\BuisnessLayer.dll
+C:\Users\nahel\Desktop\Cours\C#\TPIHM\TPIHM (1)\TPIHM\BuisnessLayer\bin\Debug\BuisnessLayer.pdb
+C:\Users\nahel\Desktop\Cours\C#\TPIHM\TPIHM (1)\TPIHM\BuisnessLayer\bin\Debug\Library.dll
+C:\Users\nahel\Desktop\Cours\C#\TPIHM\TPIHM (1)\TPIHM\BuisnessLayer\bin\Debug\Library.pdb
+C:\Users\nahel\Desktop\Cours\C#\TPIHM\TPIHM (1)\TPIHM\BuisnessLayer\obj\Debug\BuisnessLayer.csprojResolveAssemblyReference.cache
+C:\Users\nahel\Desktop\Cours\C#\TPIHM\TPIHM (1)\TPIHM\BuisnessLayer\obj\Debug\BuisnessLayer.dll
+C:\Users\nahel\Desktop\Cours\C#\TPIHM\TPIHM (1)\TPIHM\BuisnessLayer\obj\Debug\BuisnessLayer.pdb

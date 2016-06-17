@@ -1,0 +1,14 @@
+C:\Users\nahel\Desktop\Cours\C#\TPIHM\TPIHM\Métier\bin\Debug\Library.dll
+C:\Users\nahel\Desktop\Cours\C#\TPIHM\TPIHM\Métier\bin\Debug\Library.pdb
+C:\Users\nahel\Desktop\Cours\C#\TPIHM\TPIHM\Métier\obj\Debug\Library.dll
+C:\Users\nahel\Desktop\Cours\C#\TPIHM\TPIHM\Métier\obj\Debug\Library.pdb
+C:\Users\nahel\Desktop\Cours\C#\TPIHM\TPIHM\TPIHM\Métier\bin\Debug\Library.dll
+C:\Users\nahel\Desktop\Cours\C#\TPIHM\TPIHM\TPIHM\Métier\bin\Debug\Library.pdb
+C:\Users\nahel\Desktop\Cours\C#\TPIHM\TPIHM\TPIHM\Métier\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\nahel\Desktop\Cours\C#\TPIHM\TPIHM\TPIHM\Métier\obj\Debug\Library.dll
+C:\Users\nahel\Desktop\Cours\C#\TPIHM\TPIHM\TPIHM\Métier\obj\Debug\Library.pdb
+C:\Users\nahel\Desktop\Cours\C#\TPIHM\TPIHM (1)\TPIHM\Métier\bin\Debug\Library.dll
+C:\Users\nahel\Desktop\Cours\C#\TPIHM\TPIHM (1)\TPIHM\Métier\bin\Debug\Library.pdb
+C:\Users\nahel\Desktop\Cours\C#\TPIHM\TPIHM (1)\TPIHM\Métier\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\nahel\Desktop\Cours\C#\TPIHM\TPIHM (1)\TPIHM\Métier\obj\Debug\Library.dll
+C:\Users\nahel\Desktop\Cours\C#\TPIHM\TPIHM (1)\TPIHM\Métier\obj\Debug\Library.pdb

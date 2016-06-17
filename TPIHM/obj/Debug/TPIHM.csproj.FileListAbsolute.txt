@@ -1,0 +1,15 @@
+c:\users\merriae\documents\visual studio 2015\Projects\TPIHM\TPIHM\bin\Debug\TPIHM.exe.config
+c:\users\merriae\documents\visual studio 2015\Projects\TPIHM\TPIHM\bin\Debug\TPIHM.exe
+c:\users\merriae\documents\visual studio 2015\Projects\TPIHM\TPIHM\bin\Debug\TPIHM.pdb
+c:\users\merriae\documents\visual studio 2015\Projects\TPIHM\TPIHM\obj\Debug\TPIHM.csprojResolveAssemblyReference.cache
+c:\users\merriae\documents\visual studio 2015\Projects\TPIHM\TPIHM\obj\Debug\MainWindow.g.cs
+c:\users\merriae\documents\visual studio 2015\Projects\TPIHM\TPIHM\obj\Debug\App.g.cs
+c:\users\merriae\documents\visual studio 2015\Projects\TPIHM\TPIHM\obj\Debug\TPIHM_MarkupCompile.cache
+c:\users\merriae\documents\visual studio 2015\Projects\TPIHM\TPIHM\obj\Debug\TPIHM_MarkupCompile.lref
+c:\users\merriae\documents\visual studio 2015\Projects\TPIHM\TPIHM\obj\Debug\MainWindow.baml
+c:\users\merriae\documents\visual studio 2015\Projects\TPIHM\TPIHM\obj\Debug\TPIHM.g.resources
+c:\users\merriae\documents\visual studio 2015\Projects\TPIHM\TPIHM\obj\Debug\TPIHM.Properties.Resources.resources
+c:\users\merriae\documents\visual studio 2015\Projects\TPIHM\TPIHM\obj\Debug\TPIHM.csproj.GenerateResource.Cache
+c:\users\merriae\documents\visual studio 2015\Projects\TPIHM\TPIHM\obj\Debug\TPIHM.exe
+c:\users\merriae\documents\visual studio 2015\Projects\TPIHM\TPIHM\obj\Debug\TPIHM.pdb
+c:\users\merriae\documents\visual studio 2015\Projects\TPIHM\TPIHM\obj\Debug\App.baml
